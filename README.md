@@ -5,7 +5,7 @@ Crime is spread fast in the whole world, and I think idea of this project to det
 
 Test accuracy of my model is 66.67 
 
-Accuracy can improve by train on larger dataset i train on 240 videos and i test on 60 videos split it to Normal and Abnormal
+Accuracy can improve by train on larger dataset I train on 240 videos and I test on 60 videos split it to Normal and Abnormal
 
 Code that I follow: https://keras.io/examples/vision/video_transformers/
 
