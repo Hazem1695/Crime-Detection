@@ -5,19 +5,19 @@ Crime is spread fast in the whole world, and I think idea of this project to det
 
 Test accuracy of my model is 66.67 
 
-accuracy can improve by train on larger dataset i train on 240 videos and i test on 60 videos 
+Accuracy can improve by train on larger dataset i train on 240 videos and i test on 60 videos split it to Normal and Abnormal
 
-code that i follow: https://keras.io/examples/vision/video_transformers/
+Code that I follow: https://keras.io/examples/vision/video_transformers/
 
-dataset i used 
+Dataset I used: 
 
-dataset 1 : https://www.kaggle.com/datasets/minhajuddinmeraj/anomalydetectiondatasetucf
+Dataset1: https://www.kaggle.com/datasets/minhajuddinmeraj/anomalydetectiondatasetucf
 
-dataset2: https://www.kaggle.com/datasets/webadvisor/real-time-anomaly-detection-in-cctv-surveillance
+Dataset2: https://www.kaggle.com/datasets/webadvisor/real-time-anomaly-detection-in-cctv-surveillance
 
 Note: 
 
 1- Make sure TensorFlow version is 2.15.0
 
-2- Make surw Keras version is 3
+2- Make sure Keras version is 3
 
